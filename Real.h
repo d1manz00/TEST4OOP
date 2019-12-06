@@ -12,11 +12,11 @@ public:
     void div1 (double a, double b);
     void sub (double a, double b);
     void mul (double a, double b);*/
-    void add ();
-    void div1 ();
-    void sub ();
-    void mul ();
-    void set ();
+    void add () override;
+    void div1 () override;
+    void sub () override;
+    void mul () override;
+    void set () override;
 };
 
 

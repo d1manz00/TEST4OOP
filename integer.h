@@ -12,7 +12,7 @@ public:
     void div1 () override;
     void sub () override;
     void mul () override;
-    void set ();
+    void set () override;
 };
 
 
