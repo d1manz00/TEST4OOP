@@ -32,3 +32,8 @@ void Real::mul ()
 {
     cout << "mul a * b = " << x * y <<endl;
 }
+Real::Real()
+{
+    x = 1.0;
+    y = 1.0;
+}

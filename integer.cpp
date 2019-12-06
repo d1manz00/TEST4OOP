@@ -28,3 +28,9 @@ void integer::mul ()
 {
     cout << "mul a * b = " << x * y <<endl;
 }
+
+integer::integer ()
+{
+    x = 1;
+    y = 1;
+}

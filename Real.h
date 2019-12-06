@@ -12,6 +12,7 @@ public:
     void div1 (double a, double b);
     void sub (double a, double b);
     void mul (double a, double b);*/
+   Real ();
     void add () override;
     void div1 () override;
     void sub () override;

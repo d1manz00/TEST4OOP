@@ -8,6 +8,7 @@ class integer : public Number {
 private:
     int x, y;
 public:
+    integer ();
     void add () override;
     void div1 () override;
     void sub () override;

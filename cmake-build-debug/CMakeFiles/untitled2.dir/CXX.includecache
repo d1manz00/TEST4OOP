@@ -10,6 +10,16 @@ C:/Users/dzolo/CLionProjects/untitled2/Number.h
 iostream
 -
 
+C:/Users/dzolo/CLionProjects/untitled2/Real.cpp
+Real.h
+C:/Users/dzolo/CLionProjects/untitled2/Real.h
+iostream
+-
+
+C:/Users/dzolo/CLionProjects/untitled2/Real.h
+Number.h
+C:/Users/dzolo/CLionProjects/untitled2/Number.h
+
 C:/Users/dzolo/CLionProjects/untitled2/integer.cpp
 integer.h
 C:/Users/dzolo/CLionProjects/untitled2/integer.h
@@ -19,4 +29,14 @@ iostream
 C:/Users/dzolo/CLionProjects/untitled2/integer.h
 Number.h
 C:/Users/dzolo/CLionProjects/untitled2/Number.h
+
+C:/Users/dzolo/CLionProjects/untitled2/main.cpp
+iostream
+-
+integer.h
+C:/Users/dzolo/CLionProjects/untitled2/integer.h
+Number.h
+C:/Users/dzolo/CLionProjects/untitled2/Number.h
+Real.h
+C:/Users/dzolo/CLionProjects/untitled2/Real.h
 
