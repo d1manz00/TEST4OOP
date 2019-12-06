@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dzolo/CLionProjects/untitled2/Number.h
+iostream
+-
+
+C:/Users/dzolo/CLionProjects/untitled2/integer.cpp
+integer.h
+C:/Users/dzolo/CLionProjects/untitled2/integer.h
+iostream
+-
+
+C:/Users/dzolo/CLionProjects/untitled2/integer.h
+Number.h
+C:/Users/dzolo/CLionProjects/untitled2/Number.h
+
